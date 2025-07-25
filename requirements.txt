@@ -22,3 +22,4 @@ langchain-huggingface
 sentence-transformers
 streamlit
 langchain-groq
+duckduckgo-search
